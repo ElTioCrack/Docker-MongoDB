@@ -1,0 +1,5 @@
+# Ignorar todo el contenido de la carpeta
+folder_name/*
+
+# Pero no ignorar la carpeta en sí
+!folder_name/
